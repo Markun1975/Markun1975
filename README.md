@@ -24,10 +24,24 @@ Here are some ideas to get you started:
   <a href="https://github.com/Markun1975t">
     <img height="20" src="https://img.shields.io/github/followers/Markun1975?label=follow&logo=github&style=flat" />
   </a>
+   <!-- Like のバッジ -->
+  <a href="https://zenn.dev/mark_1975m">
+    <img src="https://zenn.badge.nikaera.com/s/mark_1975m/likes?style=plastic" alt="mark_1975m likes" />
+  </a>
+
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/mark_1975m/articles">
+    <img src="https://zenn.badge.nikaera.com/s/mark_1975m/articles?style=plastic" alt="mark_1975m articles" />
+  </a>
+
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/mark_1975m/followers">
+    <img src="https://zenn.badge.nikaera.com/s/mark_1975m/followers?style=plastic" alt="mark_1975m followers" />
+  </a>
   <a href="http://qiita.com/mark_1975M">
     <img height="20" src="https://qiita-badge.apiapi.app/s/mark_1975M/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
+  <//qiita.com/mark_1975M">
     <img height="20" src="https://qiita-badge.apiapi.app/s/mark_1975M/contributions.svg" />
   </a>
 </p>
